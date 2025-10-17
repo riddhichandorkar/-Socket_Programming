@@ -8,12 +8,14 @@ For compilation, run:
 ```bash
 g++ server.cpp -o server
 g++ client.cpp -o client
+```
 
 
 ###### Execution
-
+```
 On Server side:
-./server.cpp
+./server
 
 On client side:
-./client.cpp
+./client
+```
