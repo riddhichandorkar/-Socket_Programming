@@ -12,6 +12,9 @@ g++ client.cpp -o client
 
 
 ###### Execution
+
+For Execution, run:
+
 ```
 On Server side:
 ./server
